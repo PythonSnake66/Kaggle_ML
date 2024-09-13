@@ -20,6 +20,6 @@ Most of the solutions in this repository rely on popular machine learning models
 To get started, clone the repository and navigate to the notebooks directory:
 
 ```bash
-git clone https://github.com/PythonSnake66/kaggle-ml-solutions.git
-cd kaggle-ml-solutions/notebooks
+git clone https://github.com/PythonSnake66/Kaggle_ML.git
+cd Kaggle_ML/notebooks
 
